@@ -42,7 +42,7 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 
 | Sprint | Jours | Thème | Ce que j'y apprends |
 |:---|:---|:---|:---|
-| 🧱 **Sprint 1** | J1 – J10 | **Fondamentaux** | Partir de données brutes, les organiser, effectuer des calculs et produire mes premières analyses propres |
+| 🧱 **Sprint 1** | J01 – J10 | **Fondamentaux** | Partir de données brutes, les organiser, effectuer des calculs et produire mes premières analyses propres |
 | 📈 **Sprint 2** | J11 – J20 | **Data Analysis** | Travailler sur des données réalistes : analyses complètes, indicateurs, visualisations et dashboards répondant à de vraies questions métier |
 | ⚙️ **Sprint 3** | J21 – J30 | **Advanced Excel** | Construire des solutions complexes : import et transformation automatique des données, modèles analytiques, automatisation |
 
@@ -50,20 +50,20 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 
 ## 📈 Progression
 
-### 🧱 Sprint 1 — Fondamentaux (J1 – J10)
+### 🧱 Sprint 1 — Fondamentaux (J01 – J10)
 
 | Jour | Thème | Livrables | Statut |
 |:---:|:---|:---|:---:|
-| [**01**](./sprint-1-fondamentaux/jour-01-environnement-et-references/) | Environnement Excel et références de cellules | Rapport + classeur + captures | ✅ |
-| 02 | *À venir* | — | ⬜ |
-| 03 | *À venir* | — | ⬜ |
-| 04 | *À venir* | — | ⬜ |
-| 05 | *À venir* | — | ⬜ |
-| 06 | *À venir* | — | ⬜ |
-| 07 | *À venir* | — | ⬜ |
-| 08 | *À venir* | — | ⬜ |
-| 09 | *À venir* | — | ⬜ |
-| 10 | *À venir* | — | ⬜ |
+| [**J01**](./01-Fondamentaux/J01-References-cellules/) | Références de cellules (relatives, absolues, mixtes) | Rapport · Classeur · 12 captures | ✅ |
+| J02 | *À venir* | — | ⬜ |
+| J03 | *À venir* | — | ⬜ |
+| J04 | *À venir* | — | ⬜ |
+| J05 | *À venir* | — | ⬜ |
+| J06 | *À venir* | — | ⬜ |
+| J07 | *À venir* | — | ⬜ |
+| J08 | *À venir* | — | ⬜ |
+| J09 | *À venir* | — | ⬜ |
+| J10 | *À venir* | — | ⬜ |
 
 ### 📈 Sprint 2 — Data Analysis (J11 – J20)
 
@@ -74,6 +74,27 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 > 🔒 Sprint non commencé — le détail des journées sera ajouté au fur et à mesure.
 
 **Légende :** ✅ terminé · 🚧 en cours · ⬜ à venir
+
+---
+
+## 📂 Structure du dépôt
+
+```text
+excel-data-bootcamp/
+│
+├── README.md
+├── LICENSE
+│
+└── 01-Fondamentaux/
+    ├── README.md
+    └── J01-References-cellules/
+        ├── README.md
+        ├── recherches/    ← rapport de restitution (Word + PDF)
+        ├── exercices/     ← classeurs Excel produits
+        └── captures/      ← preuves visuelles des manipulations
+```
+
+📌 **Convention :** un dossier par jour, toujours la même structure interne, un `README.md` en entrée de chaque dossier.
 
 ---
 
@@ -124,6 +145,11 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 | **Git & GitHub** | Versionnement et documentation des livrables |
 | **Microsoft Word** | Rédaction des rapports de restitution |
 
+---
+
+## 📄 Licence
+
+Ce dépôt est publié sous licence MIT — voir le fichier [LICENSE](./LICENSE).
 
 ---
 
