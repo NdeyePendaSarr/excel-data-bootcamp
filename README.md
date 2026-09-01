@@ -77,10 +77,6 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 
 ---
 
-📌 **Convention adoptée :** un dossier par jour, toujours la même structure interne, un `README.md` en entrée de chaque dossier.
-
----
-
 ## 🧠 Compétences travaillées
 
 <details>
