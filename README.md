@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progression-1%20%2F%2030%20jours-FF7900" alt="Progression">
+  <img src="https://img.shields.io/badge/Progression-2%20%2F%2030%20jours-FF7900" alt="Progression">
   <img src="https://img.shields.io/badge/Sprint%20en%20cours-1%20%C2%B7%20Fondamentaux-12294A" alt="Sprint">
   <img src="https://img.shields.io/badge/Statut-En%20cours-blue" alt="Statut">
 </p>
@@ -55,7 +55,7 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 | Jour | Thème | Livrables | Statut |
 |:---:|:---|:---|:---:|
 | [**J01**](./01-Fondamentaux/J01-References-cellules/) | Références de cellules (relatives, absolues, mixtes) | Rapport · Classeur · 12 captures | ✅ |
-| J02 | *À venir* | — | ⬜ |
+| [**J02**](./01-Fondamentaux/J02-Mise-en-forme-essentielle/) | Mise en forme essentielle (formats, lisibilité, fusion) | Rapport · Classeur · 16 captures | ✅ |
 | J03 | *À venir* | — | ⬜ |
 | J04 | *À venir* | — | ⬜ |
 | J05 | *À venir* | — | ⬜ |
@@ -88,11 +88,15 @@ excel-data-bootcamp/
 │
 └── 01-Fondamentaux/
     ├── README.md
-    └── J01-References-cellules/
-        ├── README.md
-        ├── documentation/   ← rapport de restitution (Word + PDF)
-        ├── exercices/       ← classeurs Excel produits
-        └── captures/        ← preuves visuelles des manipulations
+    │
+    ├── J01-References-cellules/
+    │   ├── README.md
+    │   ├── documentation/   ← rapport de restitution (Word + PDF)
+    │   ├── exercices/       ← classeurs Excel produits
+    │   └── captures/        ← preuves visuelles des manipulations
+    │
+    └── J02-Mise-en-forme-essentielle/
+        └── ...              ← même structure interne
 ```
 
 📌 **Convention :** un dossier par jour, toujours la même structure interne, un `README.md` en entrée de chaque dossier.
