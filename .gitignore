@@ -1,0 +1,10 @@
+# Fichiers temporaires Office
+~$*
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store

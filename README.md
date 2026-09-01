@@ -84,14 +84,15 @@ excel-data-bootcamp/
 │
 ├── README.md
 ├── LICENSE
+├── .gitignore
 │
 └── 01-Fondamentaux/
     ├── README.md
     └── J01-References-cellules/
         ├── README.md
-        ├── recherches/    ← rapport de restitution (Word + PDF)
-        ├── exercices/     ← classeurs Excel produits
-        └── captures/      ← preuves visuelles des manipulations
+        ├── documentation/   ← rapport de restitution (Word + PDF)
+        ├── exercices/       ← classeurs Excel produits
+        └── captures/        ← preuves visuelles des manipulations
 ```
 
 📌 **Convention :** un dossier par jour, toujours la même structure interne, un `README.md` en entrée de chaque dossier.

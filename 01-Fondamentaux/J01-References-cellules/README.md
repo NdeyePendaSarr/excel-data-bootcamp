@@ -17,8 +17,8 @@
 
 | Fichier | Description |
 |:---|:---|
-| [📕 Rapport complet (PDF)](./recherches/Jour1_Excel_References_Ndeye_Penda_SARR.pdf) | Version illustrée et détaillée, lisible directement dans GitHub |
-| [📝 Rapport complet (Word)](./recherches/Jour1_Excel_References_Ndeye_Penda_SARR.docx) | Version éditable du rapport |
+| [📕 Rapport complet (PDF)](./documentation/Jour1_Excel_References_Ndeye_Penda_SARR.pdf) | Version illustrée et détaillée, lisible directement dans GitHub |
+| [📝 Rapport complet (Word)](./documentation/Jour1_Excel_References_Ndeye_Penda_SARR.docx) | Version éditable du rapport |
 | [📊 Classeur Excel](./exercices/Classeur-J01.xlsx) | Les 8 cas pratiques réellement réalisés, formules comprises |
 | [📸 Captures](./captures/) | Preuves visuelles de chaque manipulation |
 
@@ -322,7 +322,7 @@ J01-References-cellules/
 │
 ├── README.md                    ← ce fichier
 │
-├── recherches/
+├── documentation/
 │   ├── Jour1_Excel_References_Ndeye_Penda_SARR.docx
 │   └── Jour1_Excel_References_Ndeye_Penda_SARR.pdf
 │

@@ -54,11 +54,10 @@ Chaque journée suit la même structure, pour que le dépôt reste lisible sur 3
 
 ```text
 Jxx-Nom-du-theme/
-├── README.md        ← synthèse de la journée
-├── cours/           ← supports de cours reçus (si fournis)
-├── recherches/      ← rapport de restitution rédigé (Word + PDF)
-├── exercices/       ← classeurs Excel produits
-└── captures/        ← preuves visuelles des manipulations
+├── README.md           ← synthèse de la journée
+├── documentation/      ← rapport de restitution (Word + PDF)
+├── exercices/          ← classeurs Excel produits
+└── captures/           ← preuves visuelles des manipulations
 ```
 
 ---
