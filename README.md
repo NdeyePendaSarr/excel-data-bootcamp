@@ -77,25 +77,6 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 
 ---
 
-## 📂 Structure du dépôt
-
-```text
-bootcamp-excel-30-jours/
-│
-├── README.md                        ← vous êtes ici
-│
-├── sprint-1-fondamentaux/
-│   └── jour-01-environnement-et-references/
-│       ├── README.md                ← synthèse de la journée
-│       ├── rapport/                 ← rapport complet (.docx / .pdf)
-│       ├── classeurs/               ← fichiers Excel produits (.xlsx)
-│       └── captures/                ← captures d'écran des manipulations
-│
-├── sprint-2-data-analysis/
-│
-└── sprint-3-advanced-excel/
-```
-
 📌 **Convention adoptée :** un dossier par jour, toujours la même structure interne, un `README.md` en entrée de chaque dossier.
 
 ---
@@ -147,14 +128,6 @@ bootcamp-excel-30-jours/
 | **Git & GitHub** | Versionnement et documentation des livrables |
 | **Microsoft Word** | Rédaction des rapports de restitution |
 
----
-
-## 📌 Comment lire ce dépôt
-
-1. Choisissez un sprint dans la section **Progression** ci-dessus.
-2. Ouvrez le dossier du jour qui vous intéresse.
-3. Le `README.md` du dossier résume la journée : notions, manipulations, formules et conclusions.
-4. Le dossier `rapport/` contient la version détaillée et illustrée, le dossier `classeurs/` les fichiers Excel réellement produits.
 
 ---
 
