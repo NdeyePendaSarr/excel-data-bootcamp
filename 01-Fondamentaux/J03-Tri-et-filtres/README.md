@@ -225,9 +225,6 @@ Contrainte : **sans utiliser de formule**.
 
 Le tableau comportait déjà une colonne `Statistiques` représentant une performance globale. Un simple tri décroissant sur cette colonne suffit : les vingt premières lignes sont la réponse.
 
-![Dialogue tri Statistiques](./captures/40-dialogue-tri-statistiques.png)
-![Top 20 performances](./captures/41-resultat-top-20-performances.png)
-
 ---
 
 ## ⚡ Mémo des raccourcis et fonctions
