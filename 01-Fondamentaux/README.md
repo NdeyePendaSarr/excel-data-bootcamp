@@ -3,7 +3,7 @@
 <p>
   <img src="https://img.shields.io/badge/Sprint-1%20%2F%203-12294A" alt="Sprint 1">
   <img src="https://img.shields.io/badge/Jours-J01%20%E2%86%92%20J10-FF7900" alt="J01 à J10">
-  <img src="https://img.shields.io/badge/Avancement-2%20%2F%2010-blue" alt="Avancement">
+  <img src="https://img.shields.io/badge/Avancement-3%20%2F%2010-blue" alt="Avancement">
 </p>
 
 [🏠 Retour au sommaire du bootcamp](../README.md)
@@ -24,7 +24,7 @@ C'est le sprint qui construit les réflexes : sans une maîtrise solide des réf
 |:---:|:---|:---|:---:|
 | [**J01**](./J01-References-cellules/) | Références de cellules (relatives, absolues, mixtes) | Rapport · Classeur · 12 captures | ✅ |
 | [**J02**](./J02-Mise-en-forme-essentielle/) | Mise en forme essentielle (formats, lisibilité, fusion) | Rapport · Classeur · 16 captures | ✅ |
-| J03 | *À venir* | — | ⬜ |
+| [**J03**](./J03-Tri-et-filtres/) | Tri et filtres (tri multi-niveaux, filtres croisés) | Rapport · Classeur · 43 captures | ✅ |
 | J04 | *À venir* | — | ⬜ |
 | J05 | *À venir* | — | ⬜ |
 | J06 | *À venir* | — | ⬜ |
@@ -41,6 +41,8 @@ C'est le sprint qui construit les réflexes : sans une maîtrise solide des réf
 
 - Structure d'un classeur : cellules, plages, feuilles
 - Formats d'affichage : nombres, pourcentages, devises, dates
+- Tri simple et multi-niveaux, filtres simples, croisés et personnalisés
+- Fonctions logiques SI, ET et OU
 - Références relatives, absolues et mixtes
 - Recopie de formules et poignée de recopie
 - Fonctions de calcul et d'agrégation
@@ -76,6 +78,13 @@ Concevoir des formules Excel en maîtrisant le comportement des références rel
 <summary><strong>J02 — Mise en forme essentielle</strong></summary>
 
 Mettre en forme un tableau de manière professionnelle en distinguant la valeur stockée de son format d'affichage. Créer un format personnalisé (FCFA) et connaître les limites de la fusion de cellules dans des données structurées.
+
+</details>
+
+<details>
+<summary><strong>J03 — Tri et filtres</strong></summary>
+
+Explorer et analyser un jeu de données par le tri et le filtrage, en préservant l'intégrité du tableau. Construire un tri hiérarchique à plusieurs niveaux et traduire des critères croisés en colonnes de résultat avec SI, ET et OU.
 
 </details>
 
