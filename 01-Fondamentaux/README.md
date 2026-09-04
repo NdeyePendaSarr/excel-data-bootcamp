@@ -3,7 +3,7 @@
 <p>
   <img src="https://img.shields.io/badge/Sprint-1%20%2F%203-12294A" alt="Sprint 1">
   <img src="https://img.shields.io/badge/Jours-J01%20%E2%86%92%20J10-FF7900" alt="J01 à J10">
-  <img src="https://img.shields.io/badge/Avancement-3%20%2F%2010-blue" alt="Avancement">
+  <img src="https://img.shields.io/badge/Avancement-5%20%2F%2010-blue" alt="Avancement">
 </p>
 
 [🏠 Retour au sommaire du bootcamp](../README.md)
@@ -25,8 +25,8 @@ C'est le sprint qui construit les réflexes : sans une maîtrise solide des réf
 | [**J01**](./J01-References-cellules/) | Références de cellules (relatives, absolues, mixtes) | Rapport · Classeur · 12 captures | ✅ |
 | [**J02**](./J02-Mise-en-forme-essentielle/) | Mise en forme essentielle (formats, lisibilité, fusion) | Rapport · Classeur · 16 captures | ✅ |
 | [**J03**](./J03-Tri-et-filtres/) | Tri et filtres (tri multi-niveaux, filtres croisés) | Rapport · Classeur · 43 captures | ✅ |
-| J04 | *À venir* | — | ⬜ |
-| J05 | *À venir* | — | ⬜ |
+| [**J04**](./J04-Validation-des-donnees/) | Validation des données (listes, plages, dates, alertes) | Rapport · Classeur · 29 captures | ✅ |
+| [**J05**](./J05-Mise-en-forme-conditionnelle/) | Mise en forme conditionnelle (seuils, échelles, barres, icônes) | Rapport · 16 captures | ✅ |
 | J06 | *À venir* | — | ⬜ |
 | J07 | *À venir* | — | ⬜ |
 | J08 | *À venir* | — | ⬜ |
@@ -85,6 +85,20 @@ Mettre en forme un tableau de manière professionnelle en distinguant la valeur 
 <summary><strong>J03 — Tri et filtres</strong></summary>
 
 Explorer et analyser un jeu de données par le tri et le filtrage, en préservant l'intégrité du tableau. Construire un tri hiérarchique à plusieurs niveaux et traduire des critères croisés en colonnes de résultat avec SI, ET et OU.
+
+</details>
+
+<details>
+<summary><strong>J04 — Validation des données</strong></summary>
+
+Contrôler une donnée dès sa saisie plutôt que de corriger les erreurs après coup : listes déroulantes, plages numériques (décimales et entières), dates valides, messages de saisie et alertes d'erreur personnalisées, combinés dans un formulaire complet.
+
+</details>
+
+<details>
+<summary><strong>J05 — Mise en forme conditionnelle</strong></summary>
+
+Utiliser la mise en forme conditionnelle comme un premier niveau de data visualisation directement dans Excel : règles de seuil, échelles de couleurs, barres de données et jeux d'icônes, en gardant toujours à l'esprit la question analytique à laquelle chaque règle répond.
 
 </details>
 
