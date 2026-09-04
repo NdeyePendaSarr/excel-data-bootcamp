@@ -26,7 +26,7 @@ C'est le sprint qui construit les réflexes : sans une maîtrise solide des réf
 | [**J02**](./J02-Mise-en-forme-essentielle/) | Mise en forme essentielle (formats, lisibilité, fusion) | Rapport · Classeur · 16 captures | ✅ |
 | [**J03**](./J03-Tri-et-filtres/) | Tri et filtres (tri multi-niveaux, filtres croisés) | Rapport · Classeur · 43 captures | ✅ |
 | [**J04**](./J04-Validation-des-donnees/) | Validation des données (listes, plages, dates, alertes) | Rapport · Classeur · 29 captures | ✅ |
-| [**J05**](./J05-Mise-en-forme-conditionnelle/) | Mise en forme conditionnelle (seuils, échelles, barres, icônes) | Rapport · 16 captures | ✅ |
+| [**J05**](./J05-Mise-en-forme-conditionnelle/) | Mise en forme conditionnelle (seuils, échelles, barres, icônes) | Rapport · Classeur . 16 captures | ✅ |
 | J06 | *À venir* | — | ⬜ |
 | J07 | *À venir* | — | ⬜ |
 | J08 | *À venir* | — | ⬜ |
