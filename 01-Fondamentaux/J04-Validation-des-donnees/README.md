@@ -20,7 +20,7 @@
 | [📕 Rapport complet (PDF)](./documentation/Jour4_Excel_Validation_Donnees_Ndeye_Penda_SARR.pdf) | Version illustrée et détaillée, lisible directement dans GitHub |
 | [📝 Rapport complet (Word)](./documentation/Jour4_Excel_Validation_Donnees_Ndeye_Penda_SARR.docx) | Version éditable du rapport |
 | [📊 Classeur Excel](./exercices/Classeur-J04.xlsx) | Les 4 exercices et le mini-projet |
-| [📸 Captures](./captures/) | 29 preuves visuelles des manipulations |
+| [📸 Captures](./captures/) | 28 preuves visuelles des manipulations |
 
 ---
 

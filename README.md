@@ -57,8 +57,8 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 | [**J01**](./01-Fondamentaux/J01-References-cellules/) | Références de cellules (relatives, absolues, mixtes) | Rapport · Classeur · 12 captures | ✅ |
 | [**J02**](./01-Fondamentaux/J02-Mise-en-forme-essentielle/) | Mise en forme essentielle (formats, lisibilité, fusion) | Rapport · Classeur · 16 captures | ✅ |
 | [**J03**](./01-Fondamentaux/J03-Tri-et-filtres/) | Tri et filtres (tri multi-niveaux, filtres croisés) | Rapport · Classeur · 43 captures | ✅ |
-| [**J04**](./01-Fondamentaux/J04-Validation-des-donnees/) | Validation des données (listes, plages, dates, alertes) | Rapport · Classeur · 29 captures | ✅ |
-| [**J05**](./01-Fondamentaux/J05-Mise-en-forme-conditionnelle/) | Mise en forme conditionnelle (seuils, échelles, barres, icônes) | Rapport · 16 captures | ✅ |
+| [**J04**](./01-Fondamentaux/J04-Validation-des-donnees/) | Validation des données (listes, plages, dates, alertes) | Rapport · Classeur · 28 captures | ✅ |
+| [**J05**](./01-Fondamentaux/J05-Mise-en-forme-conditionnelle/) | Mise en forme conditionnelle (seuils, échelles, barres, icônes) | Rapport · Classeur · 16 captures | ✅ |
 | J06 | *À venir* | — | ⬜ |
 | J07 | *À venir* | — | ⬜ |
 | J08 | *À venir* | — | ⬜ |
