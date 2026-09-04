@@ -19,6 +19,7 @@
 | :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------- |
 | [📕 Rapport complet (PDF)](./documentation/Jour5_Excel_MiseEnFormeConditionnelle_Ndeye_Penda_SARR.pdf)   | Version illustrée et détaillée, lisible directement dans GitHub |
 | [📝 Rapport complet (Word)](./documentation/Jour5_Excel_MiseEnFormeConditionnelle_Ndeye_Penda_SARR.docx) | Version éditable du rapport                                       |
+| [📊 Classeur Excel](./exercices/Classeur-J05.xlsx)                                                       | Les 4 exercices et le mini-projet                                  |
 | [📸 Captures](./captures/)                                                                               | 16 preuves visuelles des manipulations                             |
 
 ---
@@ -200,7 +201,8 @@ J05-Mise-en-forme-conditionnelle/
 │   ├── Jour5_Excel_MiseEnFormeConditionnelle_Ndeye_Penda_SARR.docx
 │   └── Jour5_Excel_MiseEnFormeConditionnelle_Ndeye_Penda_SARR.pdf
 │
-├── exercices/                   ← classeur à ajouter
+├── exercices/
+│   └── Classeur-J05.xlsx
 │
 └── captures/
     ├── 01-dialogue-nouvelle-regle-superieure-egale-15.png
