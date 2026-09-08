@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progression-5%20%2F%2030%20jours-FF7900" alt="Progression">
+  <img src="https://img.shields.io/badge/Progression-7%20%2F%2030%20jours-FF7900" alt="Progression">
   <img src="https://img.shields.io/badge/Sprint%20en%20cours-1%20%C2%B7%20Fondamentaux-12294A" alt="Sprint">
   <img src="https://img.shields.io/badge/Statut-En%20cours-blue" alt="Statut">
 </p>
@@ -59,8 +59,8 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 | [**J03**](./01-Fondamentaux/J03-Tri-et-filtres/) | Tri et filtres (tri multi-niveaux, filtres croisés) | Rapport · Classeur · 43 captures | ✅ |
 | [**J04**](./01-Fondamentaux/J04-Validation-des-donnees/) | Validation des données (listes, plages, dates, alertes) | Rapport · Classeur · 28 captures | ✅ |
 | [**J05**](./01-Fondamentaux/J05-Mise-en-forme-conditionnelle/) | Mise en forme conditionnelle (seuils, échelles, barres, icônes) | Rapport · Classeur · 16 captures | ✅ |
-| J06 | *À venir* | — | ⬜ |
-| J07 | *À venir* | — | ⬜ |
+| [**J06**](./01-Fondamentaux/J06-Operateurs-et-calculs/) | Opérateurs et calculs (priorité, modèle dynamique) | Rapport · Classeur · 16 captures | ✅ |
+| [**J07**](./01-Fondamentaux/J07-Fonctions-statistiques/) | Fonctions statistiques (SUM, COUNTIF, COUNTIFS) | Rapport · Classeur · 15 captures | ✅ |
 | J08 | *À venir* | — | ⬜ |
 | J09 | *À venir* | — | ⬜ |
 | J10 | *À venir* | — | ⬜ |
