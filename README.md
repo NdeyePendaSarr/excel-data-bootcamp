@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progression-7%20%2F%2030%20jours-FF7900" alt="Progression">
-  <img src="https://img.shields.io/badge/Sprint%20en%20cours-1%20%C2%B7%20Fondamentaux-12294A" alt="Sprint">
+  <img src="https://img.shields.io/badge/Progression-10%20%2F%2030%20jours-FF7900" alt="Progression">
+  <img src="https://img.shields.io/badge/Sprint%201-Termin%C3%A9-2E7D32" alt="Sprint">
   <img src="https://img.shields.io/badge/Statut-En%20cours-blue" alt="Statut">
 </p>
 
@@ -50,7 +50,7 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 
 ## 📈 Progression
 
-### 🧱 Sprint 1 — Fondamentaux (J01 – J10)
+### 🧱 Sprint 1 — Fondamentaux (J01 – J10) ✅ terminé
 
 | Jour | Thème | Livrables | Statut |
 |:---:|:---|:---|:---:|
@@ -61,9 +61,9 @@ Et surtout : avoir construit des **projets concrets documentés**, qui servent d
 | [**J05**](./01-Fondamentaux/J05-Mise-en-forme-conditionnelle/) | Mise en forme conditionnelle (seuils, échelles, barres, icônes) | Rapport · Classeur · 16 captures | ✅ |
 | [**J06**](./01-Fondamentaux/J06-Operateurs-et-calculs/) | Opérateurs et calculs (priorité, modèle dynamique) | Rapport · Classeur · 16 captures | ✅ |
 | [**J07**](./01-Fondamentaux/J07-Fonctions-statistiques/) | Fonctions statistiques (SUM, COUNTIF, COUNTIFS) | Rapport · Classeur · 15 captures | ✅ |
-| J08 | *À venir* | — | ⬜ |
-| J09 | *À venir* | — | ⬜ |
-| J10 | *À venir* | — | ⬜ |
+| [**J08**](./01-Fondamentaux/J08-Fonctions-logiques/) | Fonctions logiques (IF, AND, OR, NOT, IFS, IFERROR) | Rapport · Classeur · 12 captures | ✅ |
+| [**J09**](./01-Fondamentaux/J09-Fonctions-de-texte/) | Fonctions de texte (extraction, nettoyage, assemblage) | Rapport · Classeur · 16 captures | ✅ |
+| [**J10**](./01-Fondamentaux/J10-Fonctions-de-date/) | Fonctions de date (TODAY, YEAR, DATEDIF) | Rapport · Classeur · 11 captures | ✅ |
 
 ### 📈 Sprint 2 — Data Analysis (J11 – J20)
 

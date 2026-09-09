@@ -4,7 +4,7 @@
 <p>
   <img src="https://img.shields.io/badge/Sprint-1%20%2F%203-12294A" alt="Sprint 1">
   <img src="https://img.shields.io/badge/Jours-J01%20%E2%86%92%20J10-FF7900" alt="J01 à J10">
-  <img src="https://img.shields.io/badge/Avancement-7%20%2F%2010-blue" alt="Avancement">
+  <img src="https://img.shields.io/badge/Avancement-10%20%2F%2010-2E7D32-blue" alt="Avancement">
 </p>
 
 [🏠 Retour au sommaire du bootcamp](../README.md)
@@ -30,9 +30,9 @@ C'est le sprint qui construit les réflexes : sans une maîtrise solide des réf
 | [**J05**](./J05-Mise-en-forme-conditionnelle/) | Mise en forme conditionnelle (seuils, échelles, barres, icônes) | Rapport · Classeur · 16 captures | ✅ |
 | [**J06**](./J06-Operateurs-et-calculs/) | Opérateurs et calculs (priorité, modèle dynamique) | Rapport · Classeur · 16 captures | ✅ |
 | [**J07**](./J07-Fonctions-statistiques/) | Fonctions statistiques (SUM, COUNTIF, COUNTIFS) | Rapport · Classeur · 15 captures | ✅ |
-| J08 | *À venir* | — | ⬜ |
-| J09 | *À venir* | — | ⬜ |
-| J10 | *À venir* | — | ⬜ |
+| [**J08**](./J08-Fonctions-logiques/) | Fonctions logiques (IF, AND, OR, NOT, IFS, IFERROR) | Rapport · Classeur · 12 captures | ✅ |
+| [**J09**](./J09-Fonctions-de-texte/) | Fonctions de texte (extraction, nettoyage, assemblage) | Rapport · Classeur · 16 captures | ✅ |
+| [**J10**](./J10-Fonctions-de-date/) | Fonctions de date (TODAY, YEAR, DATEDIF) | Rapport · Classeur · 11 captures | ✅ |
 
 **Légende :** ✅ terminé · 🚧 en cours · ⬜ à venir
 
@@ -46,6 +46,9 @@ C'est le sprint qui construit les réflexes : sans une maîtrise solide des réf
 - Fonctions logiques SI, ET et OU
 - Opérateurs arithmétiques, pourcentages et priorité des opérations
 - Fonctions statistiques : SUM, AVERAGE, MAX, MIN, COUNT, COUNTIF, COUNTIFS
+- Fonctions logiques : IF, AND, OR, NOT, IFS, IFERROR
+- Fonctions de texte : LEFT, RIGHT, MID, LEN, TRIM, CONCAT, TEXTJOIN
+- Fonctions de date : TODAY, NOW, YEAR, MONTH, DAY, DATEDIF
 - Références relatives, absolues et mixtes
 - Recopie de formules et poignée de recopie
 - Fonctions de calcul et d'agrégation
@@ -117,6 +120,35 @@ Construire des calculs corrects et dynamiques à partir de références de cellu
 Résumer et interroger un jeu de 1 000 lignes avec SUM, AVERAGE, MAX, MIN et COUNT, puis compter selon un ou plusieurs critères avec COUNTIF et COUNTIFS. Traduire une question d'analyse en critères, et contourner l'absence de OU natif par le principe d'inclusion-exclusion.
 
 </details>
+
+<details>
+<summary><strong>J08 — Fonctions logiques</strong></summary>
+
+Traduire une règle métier en logique conditionnelle et l'automatiser sur 1 000 lignes : IF, AND, OR, NOT, IFS et IFERROR, réunis dans un système d'admission générant décision, mention, alerte et statut de filière.
+
+</details>
+
+<details>
+<summary><strong>J09 — Fonctions de texte</strong></summary>
+
+Nettoyer, décomposer et recomposer des données textuelles par formules. Contrôler la structure d'un identifiant par sa longueur pour détecter les anomalies, sans jamais corriger automatiquement une donnée ambiguë.
+
+</details>
+
+<details>
+<summary><strong>J10 — Fonctions de date</strong></summary>
+
+Manipuler les dates comme des valeurs calculables : extraire leurs composantes, calculer durées et ancienneté avec DATEDIF, et construire des indicateurs temporels dynamiques combinés aux fonctions logiques.
+
+</details>
+
+---
+
+## 🎉 Sprint 1 terminé
+
+Les dix journées du sprint Fondamentaux sont bouclées : **10 rapports, 10 classeurs et 185 captures**.
+
+En dix jours, Excel est passé d'un tableau où l'on saisit des données à un outil capable de calculer, contrôler, décider et se mettre à jour seul. Le Sprint 2 — Data Analysis prend la suite à partir du J11.
 
 ---
 
